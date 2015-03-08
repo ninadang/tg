@@ -1,24 +1,4 @@
-/*
 
-    Template Author : pixelhint.com
-    Author Email    : contact@pixelhint.com
-    Template Name   : Magnetic
-    
-    
-    *****************************************
-    
-    
-    - Fonts
-    - General CSS
-    - Header
-    - Home/portfolio 
-    - Inner page 
-    - Map/Contact page  
-    - Tooltip 
-    - Responsive code
-  
-    
-*/
 
 
 
@@ -109,7 +89,9 @@ h5, h6          { font-weight: bolder }
     *zoom: 1;  
 }
 
-
+.industry {
+    margin: 0.5em 0;
+}
 
 
 
@@ -327,7 +309,8 @@ h5, h6          { font-weight: bolder }
     margin-top: -40px;
 }
 
-.main .work .caption h1{
+
+.main .work .caption h3{
     position: relative;
     display: inline-block;
     max-width: 90%;
@@ -340,8 +323,6 @@ h5, h6          { font-weight: bolder }
     border-bottom: 1px solid #bfbbbb;
     border-top: 1px solid #bfbbbb;
 }
-
-
 
 
 
