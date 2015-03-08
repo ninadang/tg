@@ -343,6 +343,10 @@ h5, h6          { font-weight: bolder }
     background-position: 50% 50%;
 }
 
+.coupit {
+    background: url('../img/coupithero.png') no-repeat;
+}
+
 .work_nav{
     display: block;
     width: 100%;
